@@ -1,3 +1,2 @@
 # git_practice
-iuruagiueirkk
-klkl
+korekara
